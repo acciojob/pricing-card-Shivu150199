@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+main{
+	width:400px;
+	padding:4rem;
+	margin:5rem auto;
+	background:#fc0395;
+	border-radius:10px;
+	box-shadow:2px 2px 2px rgba(0,0,0,0.5);
+align-items:center;
+text-align:center;
+}
+
+.img{
+	width:100%;
+	height:10rem;
+	object-fit:cover;
+}
+h1{
+	font-size:3rem;
+	color:white;
+}
+p{
+	font-size:1.5rem;
+	color:white
+}
+
+.btn{
+	background:#f5a4c3;
+	border:transparent;
+	padding:1rem 1.5rem;
+	font-size:1.2rem;
+	color:white;
+	border-radius:10px;
+}
